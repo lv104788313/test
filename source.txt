@@ -1,2 +1,2 @@
 123
-dev creating a new branch is quick
+master creating a new branch is quick
